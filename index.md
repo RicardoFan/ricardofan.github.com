@@ -9,7 +9,7 @@
       <p><b>邮箱：1533529893@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/fenbb.jpg" width="100%">
+      <img src="/fenbb.png" width="100%">
     </td>
   </tr>
 </table>
